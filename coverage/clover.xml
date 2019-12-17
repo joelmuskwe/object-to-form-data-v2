@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1576570662490" clover="3.2.0">
+  <project timestamp="1576570662490" name="All files">
+    <metrics statements="38" coveredstatements="38" conditionals="41" coveredconditionals="41" methods="10" coveredmethods="10" elements="89" coveredelements="89" complexity="0" loc="38" ncloc="38" packages="1" files="1" classes="1"/>
+    <file name="index.ts" path="/Users/joelmuskwe/Projects/6_contributions/lab/object-to-formdata/src/index.ts">
+      <metrics statements="38" coveredstatements="38" conditionals="41" coveredconditionals="41" methods="10" coveredmethods="10"/>
+      <line num="1" count="183" type="stmt"/>
+      <line num="3" count="60" type="stmt"/>
+      <line num="5" count="48" type="stmt"/>
+      <line num="7" count="86" type="stmt"/>
+      <line num="9" count="49" type="stmt"/>
+      <line num="11" count="1" type="stmt"/>
+      <line num="12" count="55" type="cond" truecount="4" falsecount="0"/>
+      <line num="17" count="1" type="stmt"/>
+      <line num="18" count="28" type="cond" truecount="4" falsecount="0"/>
+      <line num="23" count="1" type="stmt"/>
+      <line num="24" count="61" type="cond" truecount="2" falsecount="0"/>
+      <line num="25" count="61" type="cond" truecount="2" falsecount="0"/>
+      <line num="26" count="61" type="stmt"/>
+      <line num="29" count="61" type="cond" truecount="2" falsecount="0"/>
+      <line num="31" count="61" type="cond" truecount="2" falsecount="0"/>
+      <line num="32" count="1" type="stmt"/>
+      <line num="33" count="60" type="cond" truecount="2" falsecount="0"/>
+      <line num="34" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="35" count="1" type="stmt"/>
+      <line num="37" count="58" type="cond" truecount="2" falsecount="0"/>
+      <line num="38" count="9" type="cond" truecount="2" falsecount="0"/>
+      <line num="39" count="1" type="stmt"/>
+      <line num="41" count="1" type="stmt"/>
+      <line num="43" count="8" type="stmt"/>
+      <line num="44" count="14" type="cond" truecount="2" falsecount="0"/>
+      <line num="46" count="14" type="stmt"/>
+      <line num="49" count="49" type="cond" truecount="2" falsecount="0"/>
+      <line num="50" count="1" type="stmt"/>
+      <line num="51" count="48" type="cond" truecount="5" falsecount="0"/>
+      <line num="52" count="27" type="stmt"/>
+      <line num="53" count="28" type="stmt"/>
+      <line num="55" count="28" type="cond" truecount="2" falsecount="0"/>
+      <line num="56" count="7" type="cond" truecount="2" falsecount="0"/>
+      <line num="57" count="1" type="stmt"/>
+      <line num="61" count="28" type="cond" truecount="2" falsecount="0"/>
+      <line num="63" count="28" type="stmt"/>
+      <line num="66" count="21" type="stmt"/>
+      <line num="69" count="60" type="stmt"/>
+    </file>
+  </project>
+</coverage>
